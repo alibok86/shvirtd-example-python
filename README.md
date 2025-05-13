@@ -82,8 +82,8 @@ See 'snap info docker' for additional versions.
     ## Ответ
     ![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/3.png)
     ![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/4.png)
-    [Текст ссылки](https://github.com/alibok86/shvirtd-example-python/blob/main/deploy.sh)
-    [Текст ссылки](https://github.com/alibok86/shvirtd-example-python.git)       
+    [deploy.sh](https://github.com/alibok86/shvirtd-example-python/blob/main/deploy.sh)
+    [https://github.com/alibok86/shvirtd-example-python.git](https://github.com/alibok86/shvirtd-example-python.git)       
         
 
 ## Задача 5 (*)
