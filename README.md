@@ -67,8 +67,8 @@ See 'snap info docker' for additional versions.
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
     ## Ответ
-        ![Текст описания](https://github.com/alibok86/shvirtd-example-python/blob/main/1.png)
-        ![Текст описания](https://github.com/alibok86/shvirtd-example-python/blob/main/2.png)
+    ![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/1.png)
+    ![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/2.png)
 
 
 ## Задача 4
@@ -80,10 +80,10 @@ See 'snap info docker' for additional versions.
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
 
     ## Ответ
-        ![Текст описания](https://github.com/alibok86/shvirtd-example-python/blob/main/3.png)
-        ![Текст описания](https://github.com/alibok86/shvirtd-example-python/blob/main/4.png)
-        [link](https://github.com/alibok86/shvirtd-example-python/blob/main/deploy.sh)
-        [link](https://github.com/alibok86/shvirtd-example-python.git)       
+    ![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/3.png)
+    ![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/4.png)
+    [Текст ссылки](https://github.com/alibok86/shvirtd-example-python/blob/main/deploy.sh)
+    [Текст ссылки](https://github.com/alibok86/shvirtd-example-python.git)       
         
 
 ## Задача 5 (*)
