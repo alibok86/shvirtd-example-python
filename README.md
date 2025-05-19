@@ -95,10 +95,17 @@ See 'snap info docker' for additional versions.
 ## Задача 6
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
+## Ответ
+![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/5.png)
+![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/6.png)
+![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/7.png)
 
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
+## Ответ
+
+![screen1](https://github.com/alibok86/shvirtd-example-python/blob/main/8.png)
 
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
